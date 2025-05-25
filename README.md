@@ -15,17 +15,6 @@ Challenge a friend and see who gets 3 in a row first — X or O!
 
 📱 Responsive layout for all screen sizes
 
-📸 Screenshot
-(Optional: Add a screenshot here)
-
-🚀 How to Run
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/tic-tac-toe.git
-Open index.html in your browser.
 
 📁 Technologies Used
 HTML
